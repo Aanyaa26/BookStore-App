@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Story book",
+        "title": "lorem ipsjief jwnv osfkvn viwofa niefnodf",
+        "price": 20,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1716058449~exp=1716062049~hmac=6f5ec90c533f10dff79c9dff3e1e073ad5717a3ba620b0350ad0b889f75dd17f&w=740"
+    },
+
+    {
+        "id": 2,
+        "name": "Comic book",
+        "title": "lorem ipsjief jwnv osfkvn viwofa niefnodf",
+        "price": 150,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1716058449~exp=1716062049~hmac=6f5ec90c533f10dff79c9dff3e1e073ad5717a3ba620b0350ad0b889f75dd17f&w=740"
+    },
+
+    {
+        "id": 3,
+        "name": "Literature book",
+        "title": "lorem ipsjief jwnv osfkvn viwofa niefnodf",
+        "price": 100,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1716058449~exp=1716062049~hmac=6f5ec90c533f10dff79c9dff3e1e073ad5717a3ba620b0350ad0b889f75dd17f&w=740"
+    },
+
+    {
+        "id": 4,
+        "name": "Novels",
+        "title": "lorem ipsjief jwnv osfkvn viwofa niefnodf",
+        "price": 300,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1716058449~exp=1716062049~hmac=6f5ec90c533f10dff79c9dff3e1e073ad5717a3ba620b0350ad0b889f75dd17f&w=740"
+    },
+
+    {
+        "id": 5,
+        "name": "Biography",
+        "title": "lorem ipsjief jwnv osfkvn viwofa niefnodf",
+        "price": 750,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1716058449~exp=1716062049~hmac=6f5ec90c533f10dff79c9dff3e1e073ad5717a3ba620b0350ad0b889f75dd17f&w=740"
+    },
+
+    {
+        "id": 6,
+        "name": "Fiction",
+        "title": "lorem ipsjief jwnv osfkvn viwofa niefnodf",
+        "price": 850,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1716058449~exp=1716062049~hmac=6f5ec90c533f10dff79c9dff3e1e073ad5717a3ba620b0350ad0b889f75dd17f&w=740"
+    },
+
+    {
+        "id": 7,
+        "name": "Recipe Books",
+        "title": "lorem ipsjief jwnv osfkvn viwofa niefnodf",
+        "price": 450,
+        "category": "Food",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1716058449~exp=1716062049~hmac=6f5ec90c533f10dff79c9dff3e1e073ad5717a3ba620b0350ad0b889f75dd17f&w=740"
+    },
+
+    {
+        "id": 8,
+        "name": "Magazin",
+        "title": "lorem ipsjief jwnv osfkvn viwofa niefnodf",
+        "price": 350,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1716058449~exp=1716062049~hmac=6f5ec90c533f10dff79c9dff3e1e073ad5717a3ba620b0350ad0b889f75dd17f&w=740"
+    },
+
+    {
+        "id": 9,
+        "name": "Journals",
+        "title": "lorem ipsjief jwnv osfkvn viwofa niefnodf",
+        "price": 600,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1716058449~exp=1716062049~hmac=6f5ec90c533f10dff79c9dff3e1e073ad5717a3ba620b0350ad0b889f75dd17f&w=740"
+    },
+
+    {
+    "id": 10,
+    "name": "Horror Story Books",
+    "title": "lorem ipsjief jwnv osfkvn viwofa niefnodf",
+    "price": 350,
+    "category": "Horror",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1716058449~exp=1716062049~hmac=6f5ec90c533f10dff79c9dff3e1e073ad5717a3ba620b0350ad0b889f75dd17f&w=740"
+    },
+    
+    {
+        "id": 11,
+        "name": "Mystery Books",
+        "title": "lorem ipsjief jwnv osfkvn viwofa niefnodf",
+        "price": 350,
+        "category": "Mystery",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1716058449~exp=1716062049~hmac=6f5ec90c533f10dff79c9dff3e1e073ad5717a3ba620b0350ad0b889f75dd17f&w=740"
+    }
+]
